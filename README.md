@@ -47,3 +47,9 @@ O objetivo do desafio é criar um formulário para cadastro de fornecedores e pr
    ```bash
    git clone <URL-do-repositório>
    ```
+
+## Deploy
+
+O projeto está disponível online em:
+
+[https://teste-estagio-vflows-seven.vercel.app/](https://teste-estagio-vflows-seven.vercel.app/)
